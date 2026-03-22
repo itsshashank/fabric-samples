@@ -61,6 +61,10 @@ Like other samples, the Fabric test network is used to deploy and run this sampl
 
 1. Run the application (from the `asset-transfer-events` folder).
    ```
+   # To run the Rust sample application
+   cd application-gateway-rust
+   cargo run
+
    # To run the Go sample application
    cd application-gateway-go
    go run .

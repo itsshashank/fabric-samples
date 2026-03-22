@@ -69,6 +69,13 @@ The Fabric test network is used to deploy and run this sample. Follow these step
 
 1. Run the application (from the `asset-transfer-basic` folder).
 
+   - To run the **Rust** sample application:
+
+     ```shell
+     cd application-gateway-rust
+     cargo run
+     ```
+     
    - To run the **TypeScript** sample application:
 
      ```shell
